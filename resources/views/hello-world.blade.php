@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>
-        First page in Laravel 
+        HELLO WORLD
     </h1>
 </body>
 </html>
